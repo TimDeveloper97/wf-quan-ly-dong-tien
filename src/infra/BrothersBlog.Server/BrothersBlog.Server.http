@@ -1,0 +1,6 @@
+@BrothersBlog.Server_HostAddress = http://localhost:5080
+
+GET {{BrothersBlog.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
